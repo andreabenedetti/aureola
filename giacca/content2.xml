@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orbitvu>
+ <properties>
+  <property name="name" type="text">Giacca US Air Force su manichino</property>
+  <property name="author" type="text"></property>
+  <property name="description" type="text"></property>
+  <property name="date" type="text">2019-10-25 12:14:56</property>
+  <property name="sku" type="text">Giacca US Air Force su manichino</property>
+  <property name="Category 1" type="text">archivio</property>
+  <property name="Category 2" type="text"></property>
+ </properties>
+ <sequence3d vangles="1" name="a_" hangles="12">
+  <scales>
+   <scale tile_height="930" width="3863" rows="5" cols="4" tile_width="966" height="4648" value="100.0"/>
+   <scale tile_height="775" width="1931" rows="3" cols="2" tile_width="966" height="2324" value="50.0"/>
+   <scale tile_height="581" width="965" rows="2" cols="1" tile_width="965" height="1162" value="25.0"/>
+   <scale tile_height="1024" width="851" rows="1" cols="1" tile_width="851" height="1024" value="22.0"/>
+   <scale tile_height="768" width="638" rows="1" cols="1" tile_width="638" height="768" value="16.5"/>
+   <scale tile_height="512" width="425" rows="1" cols="1" tile_width="425" height="512" value="11.0"/>
+   <scale tile_height="256" width="212" rows="1" cols="1" tile_width="212" height="256" value="5.5"/>
+   <scale tile_height="128" width="106" rows="1" cols="1" tile_width="106" height="128" value="2.8"/>
+  </scales>
+  <images name="a_" maxWidth="3863" maxHeight="4648" ext="jpg"/>
+ </sequence3d>
+</orbitvu>
